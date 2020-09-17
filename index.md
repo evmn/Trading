@@ -12,3 +12,5 @@
 ---
 
  - [使用Python计算止盈止损](scripts/)
+
+![](images/Expectancy_Per_Trade.jpg)
