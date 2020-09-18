@@ -1,6 +1,6 @@
 # 供应和需求
 
- - [Probability Enhancer(增强胜率的因素)](Supply_and_Demand/Probability_Enhancer/)
+ - [Probability Enhancer(增强胜率的因素)](Supply_and_Demand/Probability_Enhancer/) p1
 
  - [A Key Factor for Trade Success(交易成功的重要因素)](Supply_and_Demand/A_Key_Factor_for_Trade_Success) p9
 
