@@ -1,5 +1,7 @@
 # 供应和需求
 
+ - [Probability Enhancer(增强胜率的因素)](Supply_and_Demand/Probability_Enhancer/)
+
  - [A Key Factor for Trade Success(交易成功的重要因素)](Supply_and_Demand/A_Key_Factor_for_Trade_Success) p9
 
  - [The Dollar, In Real Money Terms(从真实价值的角度谈美元)](Supply_and_Demand/The_Dollar_In_Real_Money_Terms) p62
